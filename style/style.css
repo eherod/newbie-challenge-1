@@ -123,16 +123,7 @@
   }
 
   @media (min-width: 390px){
-    .image-container {
-        height: 40%;
-        background-position: 50% 5%;
-    }
-
-    .content{
-        height: 60%;
-        
-
-    }
+   
 
     .stats{
         width: 100%;
@@ -150,6 +141,20 @@
 
 
 
+  }
+
+  @media (min-width: 450px){
+
+    .image-container {
+        height: 40%;
+        background-position: 50% 5%;
+    }
+
+    .content{
+        height: 60%;
+        
+
+    }
   }
 
   @media (min-width: 604px){
